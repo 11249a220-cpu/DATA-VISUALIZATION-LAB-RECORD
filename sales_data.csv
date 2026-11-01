@@ -1,0 +1,9 @@
+OrderID,Category,Region,Sales,Quantity
+1001,Technology,East,1200,4
+1002,Furniture,West,800,2
+1003,Office Supplies,South,300,6
+1004,Technology,North,1500,5
+1005,Furniture,East,950,3
+1006,Office Supplies,West,450,9
+1007,Technology,South,1800,7
+1008,Furniture,North,700,2
